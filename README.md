@@ -20,4 +20,4 @@ large chest radiography datasets, MIMIC-CXR, and CheXpert.
 Monshi, M. M. A., Poon, J. and Chung, V. (2022). Distributed Deep Learning for Multi-Label Chest Radiography Classification.  In Proceedings of the 17th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 4: VISAPP, ISBN 978-989-758-555-5, ISSN 2184-4321, pages 949-956. [[Paper]](https://scholar.google.com.au/citations?user=wTl-pNEAAAAJ&hl=en) 
 
 ### Contact: 
-Maram Monshi at mmon4544@uni.sydney.edu.au or m.monshi@tu.edu.sa 
+Maram Monshi at mmon4544@uni.sydney.edu.au or m.monshi@tu.edu.sa
