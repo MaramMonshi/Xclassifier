@@ -4,7 +4,7 @@ that trains an enhanced DenseNet-121 framework
 with blur pooling to detect 14 observations from
 a chest x-ray. It accomplishes an ideal memory utilization, GPU computation, and high AUC on two
 large chest radiography datasets, MIMIC-CXR, and CheXpert.
-[[More Information]](https://visapp.scitevents.org) 
+[[More Information]](https://doi.org/10.5220/0010849400003124) 
 
 
 ### Implementation:  
@@ -17,7 +17,7 @@ large chest radiography datasets, MIMIC-CXR, and CheXpert.
 
 
 ### Citation:
-Monshi, M. M. A., Poon, J. and Chung, V. (2022). Distributed Deep Learning for Multi-Label Chest Radiography Classification.  In Proceedings of the 17th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 4: VISAPP, ISBN 978-989-758-555-5, ISSN 2184-4321, pages 949-956. [[Paper]](https://scholar.google.com.au/citations?user=wTl-pNEAAAAJ&hl=en) 
+Monshi, M. M. A. Poon, J. and Chung, V. (2022). Distributed Deep Learning for Multi-Label Chest Radiography Classification. In Proceedings of the 17th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 4: VISAPP, ISBN 978-989-758-555-5, pages 949-956. [[Paper]](https://doi.org/10.5220/0010849400003124) 
 
 ### Contact: 
 Maram Monshi at mmon4544@uni.sydney.edu.au or m.monshi@tu.edu.sa
